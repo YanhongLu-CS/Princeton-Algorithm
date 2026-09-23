@@ -2,5 +2,11 @@
 .idea/
 *.iml
 
+# Java build artifacts
+*.class
+
+# Princeton algs4 / Lift local tooling
+.lift/
+
 # macOS
 .DS_Store
